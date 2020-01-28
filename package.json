@@ -35,9 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy": "http://localhost:3001"
+  }
 }
+//,
+// "proxy": "http://localhost:3001"
 // "scripts": {
  //   "start": "react-scripts start",
 //    "build": "react-scripts build",
